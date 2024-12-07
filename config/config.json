@@ -1,0 +1,11 @@
+{
+  "development": {
+    "url": "postgres://avnadmin:AVNS_rPzgdTpnLAj_4mZ2-Qn@irctc-replica-haggarwal505-91ab.i.aivencloud.com:25315/defaultdb",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}

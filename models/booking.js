@@ -14,7 +14,7 @@ module.exports = (sequelize, DataTypes) => {
         key: "id",
       },
     },
-    date: {
+    booking_date: {
       type: DataTypes.DATEONLY,
       allowNull: false,
     },
